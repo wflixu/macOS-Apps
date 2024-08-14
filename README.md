@@ -1,4 +1,5 @@
-#   MacOS-Apps
+#   macOS-Apps
+
 Awesome macOS open source Apps
 
 
@@ -18,6 +19,13 @@ Awesome macOS open source Apps
 ## Video and Image
 
 - [LiveCam](https://github.com/wflixu/LiveCam) Show your avatar while recording the screen.
+
+- [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) ![native] A lightweight screen recorder based on ScreenCapture Kit for macOS
+
+## System Utility
+
+- [Pearcleaner](https://github.com/alienator88/Pearcleaner) A free, source-available and fair-code licensed mac app cleaner
+
 
 
 #### *If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*
