@@ -14,11 +14,19 @@ Awesome macOS open source Apps
 
 - [AIME](https://github.com/wflixu/AIME) ![native] Automatically switch input method for different applications.
 
+- [SwitchKey](https://github.com/itsuhane/SwitchKey) ![native] Automatically activate the correct input source.
+
 - [Loop](https://github.com/MrKai77/Loop) ![native] - Window management made elegant.
+
+- [Ice](https://github.com/jordanbaird/Ice) ![native] - Powerful menu bar manager for macOS
 
 ## Video and Image
 
-- [LiveCam](https://github.com/wflixu/LiveCam) Show your avatar while recording the screen.
+- [IINA](https://github.com/iina/iina)  ![native]  The modern video player for macOS.
+
+- [LiveCam](https://github.com/wflixu/LiveCam)  Show your avatar while recording the screen.
+
+- [Gifski](https://github.com/sindresorhus/Gifski)  ![native]  Convert videos to high-quality GIFs on your Mac
 
 - [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) ![native] A lightweight screen recorder based on ScreenCapture Kit for macOS
 
