@@ -8,6 +8,8 @@ Awesome macOS open source Apps
 - [Visual Studio Code](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your macOS.
 
 
+
+
 ## Productivity
 
 - [RClick](https://github.com/wflixu/RClick) ![native] A Finder extension  for customizing context menu.
@@ -20,6 +22,8 @@ Awesome macOS open source Apps
 
 - [Ice](https://github.com/jordanbaird/Ice) ![native] - Powerful menu bar manager for macOS
 
+- [FinderSyncer](https://github.com/wflixu/FinderSyncer) ![native] - Finder Sync Extension enabling for macOS Sequoia 15
+
 ## Video and Image
 
 - [IINA](https://github.com/iina/iina)  ![native]  The modern video player for macOS.
@@ -29,6 +33,11 @@ Awesome macOS open source Apps
 - [Gifski](https://github.com/sindresorhus/Gifski)  ![native]  Convert videos to high-quality GIFs on your Mac
 
 - [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) ![native] A lightweight screen recorder based on ScreenCapture Kit for macOS
+
+- [Picasa](https://github.com/wflixu/Picasa) ![native] macOS image and pictrue viewer.
+
+- [Cap](https://github.com/CapSoftware/Cap)  Open source Loom alternative. Effortless, instant screen sharing.
+
 
 ## System Utility
 
