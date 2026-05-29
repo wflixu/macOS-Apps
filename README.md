@@ -7,6 +7,8 @@ Awesome macOS open source Apps
 
 - [Visual Studio Code](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your macOS.
 
+- [Terminal Workspace](https://github.com/EvanAI0331/terminal-workspace) - Multi-project terminal workspace for managing local development stacks on macOS.
+
 
 
 
@@ -52,7 +54,6 @@ Awesome macOS open source Apps
 
 [native]: https://img.shields.io/badge/native-D9603E
 [paid]: https://img.shields.io/badge/paid-FFC131?&logoColor=black
-
 
 
 
