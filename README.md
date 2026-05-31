@@ -2,6 +2,8 @@
 
 Awesome macOS open source Apps
 
+[中文版](README_CN.md)
+
 
 ## Developement
 

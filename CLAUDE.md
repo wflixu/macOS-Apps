@@ -4,19 +4,20 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository purpose
 
-This is a curated list of awesome macOS open source apps, maintained as a single `README.md`. There is no build system, no tests, and no application code.
+This is a curated list of awesome macOS open source apps, maintained in two files: `README.md` (English) and `README_CN.md` (Chinese). There is no build system, no tests, and no application code. When adding or editing entries, both files must be updated in sync.
 
 ## README conventions
 
 - Categories are `##` headings (e.g. `## Developement`, `## Productivity`).
 - Each entry is a `- [App Name](GitHub URL)` bullet. Native macOS apps get a `![native]` badge after the link. Paid apps get `![paid]`.
-- Badge references are defined at the bottom of the file as GitHub-flavored markdown reference links:
+- Badge references are defined at the bottom of the file:
   - `[native]: https://img.shields.io/badge/native-D9603E`
   - `[paid]: https://img.shields.io/badge/paid-FFC131?&logoColor=black`
-- Descriptions after the link are brief and end without a period unless multi-sentence.
+- Descriptions are brief and end without a period (unless multi-sentence).
 
 ## Editing guidelines
 
-- Add new entries alphabetically within their category (respect existing ordering).
+- Insert new entries alphabetically within their category.
 - When an app is renamed or replaced, update both the link text and URL.
-- If an entry is no longer maintained or relevant, remove it rather than annotating it.
+- Remove entries that are no longer maintained instead of annotating them.
+- Commit messages should use Chinese, following the style from `git log --oneline`.
