@@ -9,7 +9,7 @@ Awesome macOS open source Apps
 
 - [Terminal Workspace](https://github.com/EvanAI0331/terminal-workspace) - Multi-project terminal workspace for managing local development stacks on macOS.
 
-
+- [Ghostty](https://github.com/ghostty-org/ghostty) ![native] A fast, feature-rich terminal emulator for macOS, built with Zig.
 
 
 ## Productivity
@@ -36,10 +36,11 @@ Awesome macOS open source Apps
 
 - [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) ![native] A lightweight screen recorder based on ScreenCapture Kit for macOS
 
-- [Picasa](https://github.com/wflixu/Picasa) ![native] macOS image and pictrue viewer.
+- [iMonet](https://github.com/wflixu/Monet) ![native] Elegant macOS image viewer built with SwiftUI, supports keyboard shortcuts and folder indexing.
 
 - [Cap](https://github.com/CapSoftware/Cap)  Open source Loom alternative. Effortless, instant screen sharing.
 
+- [CapCap](https://github.com/realskyrin/capcap) ![native] Lightweight macOS screenshot tool in the menu bar, double-tap ⌘ to capture any region.
 
 ## System Utility
 
