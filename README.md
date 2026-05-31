@@ -36,11 +36,11 @@ Awesome macOS open source Apps
 
 - [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) ![native] A lightweight screen recorder based on ScreenCapture Kit for macOS
 
-- [iMonet](https://github.com/wflixu/Monet) ![native] Elegant macOS image viewer built with SwiftUI, supports keyboard shortcuts and folder indexing.
+- [iMonet](https://github.com/wflixu/Monet) ![native] macOS image viewer optimized for mouse and trackpad users, built with SwiftUI.
 
 - [Cap](https://github.com/CapSoftware/Cap)  Open source Loom alternative. Effortless, instant screen sharing.
 
-- [CapCap](https://github.com/realskyrin/capcap) ![native] Lightweight macOS screenshot tool in the menu bar, double-tap ⌘ to capture any region.
+- [capcap](https://github.com/realskyrin/capcap) ![native] Lightweight macOS screenshot tool, double-tap ⌘ to capture any region, lives in the menu bar.
 
 ## System Utility
 
