@@ -46,6 +46,8 @@ Awesome macOS open source Apps
 
 ## System Utility
 
+- [Dusty](https://github.com/yagcioglutoprak/dusty) ![native] - Menu bar disk cleaner with an allowlist-only deletion engine that shows every path before removing anything
+
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner) A free, source-available and fair-code licensed mac app cleaner
 
 
@@ -57,7 +59,6 @@ Awesome macOS open source Apps
 
 [native]: https://img.shields.io/badge/native-D9603E
 [paid]: https://img.shields.io/badge/paid-FFC131?&logoColor=black
-
 
 
 
