@@ -16,6 +16,8 @@ Awesome macOS open source Apps
 
 ## Productivity
 
+- [Maccy](https://github.com/p0deje/Maccy) ![native] Clipboard manager for macOS.
+
 - [RClick](https://github.com/wflixu/RClick) ![native] A Finder extension  for customizing context menu.
 
 - [AIME](https://github.com/wflixu/AIME) ![native] Automatically switch input method for different applications.
