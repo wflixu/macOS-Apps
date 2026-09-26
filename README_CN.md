@@ -18,6 +18,8 @@
 
 - [Maccy](https://github.com/p0deje/Maccy) ![native] macOS 剪贴板管理工具。
 
+- [Whisk](https://github.com/nathan-poncet/whisk) ![native] Paste 风格面板的剪贴板管理工具，支持置顶、搜索和富预览。
+
 - [RClick](https://github.com/wflixu/RClick) ![native] Finder 扩展，用于自定义右键菜单。
 
 - [AIME](https://github.com/wflixu/AIME) ![native] 根据不同应用自动切换输入法。

@@ -18,6 +18,8 @@ Awesome macOS open source Apps
 
 - [Maccy](https://github.com/p0deje/Maccy) ![native] Clipboard manager for macOS.
 
+- [Whisk](https://github.com/nathan-poncet/whisk) ![native] Clipboard manager with a Paste-style panel, pins, search and rich previews.
+
 - [RClick](https://github.com/wflixu/RClick) ![native] A Finder extension  for customizing context menu.
 
 - [AIME](https://github.com/wflixu/AIME) ![native] Automatically switch input method for different applications.
