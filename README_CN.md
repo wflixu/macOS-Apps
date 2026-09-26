@@ -32,6 +32,8 @@
 
 - [FinderSyncer](https://github.com/wflixu/FinderSyncer) ![native] - 适用于 macOS Sequoia 15 的 Finder 同步扩展
 
+- [BoardEject](https://github.com/royalpinto007/boardeject) ![native] 将 Apple Freeform 选中内容导出为可编辑的 Excalidraw 文件并创建可验证的本地存档。
+
 ## 视频与图像
 
 - [IINA](https://github.com/iina/iina)  ![native]  现代 macOS 视频播放器。

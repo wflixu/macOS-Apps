@@ -32,6 +32,8 @@ Awesome macOS open source Apps
 
 - [FinderSyncer](https://github.com/wflixu/FinderSyncer) ![native] - Finder Sync Extension enabling for macOS Sequoia 15
 
+- [BoardEject](https://github.com/royalpinto007/boardeject) ![native] Export Apple Freeform selections to editable Excalidraw and verified local archives
+
 ## Video and Image
 
 - [IINA](https://github.com/iina/iina)  ![native]  The modern video player for macOS.
