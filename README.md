@@ -38,6 +38,8 @@ Awesome macOS open source Apps
 
 - [LiveCam](https://github.com/wflixu/LiveCam)  Show your avatar while recording the screen.
 
+- [Lucid](https://github.com/braedonsaunders/lucid) ![native] Real-time AI super-resolution for browser video on Apple silicon Macs, runs locally
+
 - [Gifski](https://github.com/sindresorhus/Gifski)  ![native]  Convert videos to high-quality GIFs on your Mac
 
 - [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) ![native] A lightweight screen recorder based on ScreenCapture Kit for macOS
