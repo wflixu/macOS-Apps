@@ -38,6 +38,8 @@
 
 - [LiveCam](https://github.com/wflixu/LiveCam)  录屏时显示你的虚拟形象。
 
+- [Lucid](https://github.com/braedonsaunders/lucid) ![native] 在 Apple 芯片 Mac 上对浏览器视频进行实时 AI 超分辨率增强，本地运行
+
 - [Gifski](https://github.com/sindresorhus/Gifski)  ![native]  在 Mac 上将视频转换为高质量 GIF
 
 - [QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) ![native] 基于 ScreenCapture Kit 的轻量级 macOS 屏幕录制工具
