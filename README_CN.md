@@ -13,6 +13,8 @@
 
 - [Ghostty](https://github.com/ghostty-org/ghostty) ![native] 快速、功能丰富的 macOS 终端模拟器，使用 Zig 构建。
 
+- [Oh My Android](https://github.com/ateymoori/oh-my-android) ![native] 原生 macOS Android 模拟器与真机控制面板：一键深色模式、字号、RTL、TalkBack，内置 MCP 服务器
+
 
 ## 效率工具
 
