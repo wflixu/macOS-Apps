@@ -54,6 +54,8 @@ Awesome macOS open source Apps
 
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner) A free, source-available and fair-code licensed mac app cleaner
 
+- [Tap2Click](https://github.com/tourist-apps/tap2click) ![native] - Menu bar app that adds tap-to-click and two-finger right-click to the Apple Magic Mouse
+
 
 
 #### *If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*
