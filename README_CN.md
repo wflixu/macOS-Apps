@@ -32,6 +32,8 @@
 
 - [FinderSyncer](https://github.com/wflixu/FinderSyncer) ![native] - 适用于 macOS Sequoia 15 的 Finder 同步扩展
 
+- [Koru](https://github.com/koruworks/mono) - 本地优先的笔记、文档与文件工作区，使用 Rust 开发，支持设备间点对点同步，无需注册账号
+
 ## 视频与图像
 
 - [IINA](https://github.com/iina/iina)  ![native]  现代 macOS 视频播放器。
