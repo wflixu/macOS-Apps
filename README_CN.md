@@ -32,6 +32,8 @@
 
 - [FinderSyncer](https://github.com/wflixu/FinderSyncer) ![native] - 适用于 macOS Sequoia 15 的 Finder 同步扩展
 
+- [Cybokron Dock Groups](https://github.com/ercanatay/cybokron-dock-groups) ![native] - 菜单栏应用，可将应用和网站分组，一次性打开、隐藏或关闭整个分组。
+
 ## 视频与图像
 
 - [IINA](https://github.com/iina/iina)  ![native]  现代 macOS 视频播放器。

@@ -32,6 +32,8 @@ Awesome macOS open source Apps
 
 - [FinderSyncer](https://github.com/wflixu/FinderSyncer) ![native] - Finder Sync Extension enabling for macOS Sequoia 15
 
+- [Cybokron Dock Groups](https://github.com/ercanatay/cybokron-dock-groups) ![native] - Menu bar app that groups apps and websites so you can open, hide, or close a whole group at once.
+
 ## Video and Image
 
 - [IINA](https://github.com/iina/iina)  ![native]  The modern video player for macOS.
