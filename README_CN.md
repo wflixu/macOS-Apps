@@ -52,6 +52,8 @@
 
 - [Dusty](https://github.com/yagcioglutoprak/dusty) ![native] - 菜单栏磁盘清理工具，采用仅允许列表的删除引擎，删除前会显示每个路径
 
+- [IconCraft](https://github.com/gshipman223/IconCraft) - 无需修改应用本身即可为任意 Mac 应用更换名称和图标，原始图标保存在 Originals Vault 中，可一键全部恢复
+
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner) 免费、源码可用、公平代码许可的 Mac 应用清理工具
 
 
