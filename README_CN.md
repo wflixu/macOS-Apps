@@ -26,6 +26,8 @@
 
 - [SwitchKey](https://github.com/itsuhane/SwitchKey) ![native] 自动激活正确的输入源。
 
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) ![native] - 按外接显示器记住窗口位置、大小和所属桌面（Space），重新插上显示器时自动归位
+
 - [Loop](https://github.com/MrKai77/Loop) ![native] - 优雅的窗口管理工具。
 
 - [Ice](https://github.com/jordanbaird/Ice) ![native] - 强大的 macOS 菜单栏管理器

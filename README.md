@@ -26,6 +26,8 @@ Awesome macOS open source Apps
 
 - [SwitchKey](https://github.com/itsuhane/SwitchKey) ![native] Automatically activate the correct input source.
 
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) ![native] - Remembers window positions, sizes, and Spaces per external monitor and restores them on reconnect
+
 - [Loop](https://github.com/MrKai77/Loop) ![native] - Window management made elegant.
 
 - [Ice](https://github.com/jordanbaird/Ice) ![native] - Powerful menu bar manager for macOS
