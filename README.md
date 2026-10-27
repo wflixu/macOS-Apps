@@ -27,6 +27,7 @@ Awesome macOS open source Apps
 - [SwitchKey](https://github.com/itsuhane/SwitchKey) ![native] Automatically activate the correct input source.
 
 - [Loop](https://github.com/MrKai77/Loop) ![native] - Window management made elegant.
+- [Command Reopen](https://github.com/Feng6611/mac-command-reopen) ![native] - Makes Cmd+Tab restore minimized and closed windows with zero permissions.
 
 - [Ice](https://github.com/jordanbaird/Ice) ![native] - Powerful menu bar manager for macOS
 
