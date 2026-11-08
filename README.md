@@ -15,6 +15,9 @@ Awesome macOS open source Apps
 
 
 ## Productivity
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit) - Native macOS menu bar productivity HUD with calendar, timer, and notes.
+- [Tape](https://github.com/Yvsleyen00941/Tape) - Native macOS stock ticker living in the unused corner space beside the Dock.
+- [Rime](https://github.com/Yvsleyen00941/Rime) - Distraction-free native markdown editor and reader for macOS.
 
 - [Maccy](https://github.com/p0deje/Maccy) ![native] Clipboard manager for macOS.
 
