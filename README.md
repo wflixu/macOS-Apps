@@ -68,3 +68,6 @@ Awesome macOS open source Apps
 
 
 
+
+
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Shows what is playing in the empty corner beside the Dock.
