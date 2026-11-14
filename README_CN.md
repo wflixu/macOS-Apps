@@ -54,6 +54,8 @@
 
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner) 免费、源码可用、公平代码许可的 Mac 应用清理工具
 
+- [Mole](https://github.com/tw93/Mole) - 开源命令行工具，深度清理缓存、连同残留一起卸载应用、分析磁盘占用并查看系统状态
+
 
 
 #### *如果你发现此处的项目或链接已不再维护或不太合适，欢迎提交 Pull Request 来改进这份文档。谢谢！*
