@@ -13,6 +13,8 @@ Awesome macOS open source Apps
 
 - [Ghostty](https://github.com/ghostty-org/ghostty) ![native] A fast, feature-rich terminal emulator for macOS, built with Zig.
 
+- [Oh My Android](https://github.com/ateymoori/oh-my-android) ![native] Control panel for the Android Emulator and adb devices: one-click dark mode, font scale, RTL, TalkBack, with a built-in MCP server
+
 
 ## Productivity
 
