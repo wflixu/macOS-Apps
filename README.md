@@ -31,6 +31,7 @@ Awesome macOS open source Apps
 - [Ice](https://github.com/jordanbaird/Ice) ![native] - Powerful menu bar manager for macOS
 
 - [FinderSyncer](https://github.com/wflixu/FinderSyncer) ![native] - Finder Sync Extension enabling for macOS Sequoia 15
+- [Glim](https://github.com/NeoPanic/Glim) - Free, open-source file viewer for Markdown, PDFs, images, JSON, CSV and source code in one macOS workspace.
 
 ## Video and Image
 

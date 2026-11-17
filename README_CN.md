@@ -31,6 +31,7 @@
 - [Ice](https://github.com/jordanbaird/Ice) ![native] - 强大的 macOS 菜单栏管理器
 
 - [FinderSyncer](https://github.com/wflixu/FinderSyncer) ![native] - 适用于 macOS Sequoia 15 的 Finder 同步扩展
+- [Glim](https://github.com/NeoPanic/Glim) - 免费开源的 macOS 多格式文件查看器，在同一工作区阅读 Markdown、PDF、图片、JSON、CSV 和源代码。
 
 ## 视频与图像
 
