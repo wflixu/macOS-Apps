@@ -44,6 +44,8 @@
 
 - [iMonet](https://github.com/wflixu/Monet) ![native] 为鼠标和触控板用户优化的 macOS 图片查看器，使用 SwiftUI 构建。
 
+- [Flipic](https://github.com/xmasdong/flipic) ![native] 挑片看图器：方向键翻页、100% 查焦点、Lightroom 可读的 XMP 评分、本机清理模式。
+
 - [Cap](https://github.com/CapSoftware/Cap)  开源 Loom 替代品。轻松、即时的屏幕分享。
 
 - [capcap](https://github.com/realskyrin/capcap) ![native] 轻量级 macOS 截图工具，双击 ⌘ 即可截取任意区域，常驻菜单栏。

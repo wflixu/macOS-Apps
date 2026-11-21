@@ -44,6 +44,8 @@ Awesome macOS open source Apps
 
 - [iMonet](https://github.com/wflixu/Monet) ![native] macOS image viewer optimized for mouse and trackpad users, built with SwiftUI.
 
+- [Flipic](https://github.com/xmasdong/flipic) ![native] Photo culling viewer: page through a folder with the arrow keys, check focus at 100%, write XMP ratings Lightroom reads, and run an on-device cleanup mode.
+
 - [Cap](https://github.com/CapSoftware/Cap)  Open source Loom alternative. Effortless, instant screen sharing.
 
 - [capcap](https://github.com/realskyrin/capcap) ![native] Lightweight macOS screenshot tool, double-tap ⌘ to capture any region, lives in the menu bar.
