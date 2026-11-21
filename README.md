@@ -32,6 +32,8 @@ Awesome macOS open source Apps
 
 - [FinderSyncer](https://github.com/wflixu/FinderSyncer) ![native] - Finder Sync Extension enabling for macOS Sequoia 15
 
+- [Koru](https://github.com/koruworks/mono) - Local-first workspace for notes, documents and files, written in Rust, with peer-to-peer device sync and no account required
+
 ## Video and Image
 
 - [IINA](https://github.com/iina/iina)  ![native]  The modern video player for macOS.
