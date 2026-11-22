@@ -13,6 +13,8 @@ Awesome macOS open source Apps
 
 - [Ghostty](https://github.com/ghostty-org/ghostty) ![native] A fast, feature-rich terminal emulator for macOS, built with Zig.
 
+- [SFTerm](https://github.com/wflixu/SFTerm) - A lightweight macOS SSH and SFTP client with dual-pane file transfer
+
 
 ## Productivity
 

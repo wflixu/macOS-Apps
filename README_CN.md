@@ -13,6 +13,8 @@
 
 - [Ghostty](https://github.com/ghostty-org/ghostty) ![native] 快速、功能丰富的 macOS 终端模拟器，使用 Zig 构建。
 
+- [SFTerm](https://github.com/wflixu/SFTerm) - 轻量的 macOS SSH 与 SFTP 客户端，支持双栏文件传输
+
 
 ## 效率工具
 
