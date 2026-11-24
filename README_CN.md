@@ -50,6 +50,8 @@
 
 - [capcap](https://github.com/realskyrin/capcap) ![native] 轻量级 macOS 截图工具，双击 ⌘ 即可截取任意区域，常驻菜单栏。
 
+- [CineNotch](https://github.com/NikOneZ1/cinenotch) ![native] ![paid] 将画中画视频停靠在 MacBook 刘海中
+
 ## 系统工具
 
 - [Dusty](https://github.com/yagcioglutoprak/dusty) ![native] - 菜单栏磁盘清理工具，采用仅允许列表的删除引擎，删除前会显示每个路径

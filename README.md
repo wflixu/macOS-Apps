@@ -50,6 +50,8 @@ Awesome macOS open source Apps
 
 - [capcap](https://github.com/realskyrin/capcap) ![native] Lightweight macOS screenshot tool, double-tap ⌘ to capture any region, lives in the menu bar.
 
+- [CineNotch](https://github.com/NikOneZ1/cinenotch) ![native] ![paid] Docks Picture in Picture into the MacBook notch
+
 ## System Utility
 
 - [Dusty](https://github.com/yagcioglutoprak/dusty) ![native] - Menu bar disk cleaner with an allowlist-only deletion engine that shows every path before removing anything
