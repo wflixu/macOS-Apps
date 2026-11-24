@@ -58,6 +58,7 @@
 
 - [Mole](https://github.com/tw93/Mole) - 开源命令行工具，深度清理缓存、连同残留一起卸载应用、分析磁盘占用并查看系统状态
 
+- [NotchDeck](https://github.com/systemAdmin-ai/NotchDeck) ![native] - 常驻 MacBook 刘海的系统控制中心：CPU、内存、温度与磁盘监控，播放控制、速记、文件中转架、剪贴板历史、录屏，并替代系统亮度与音量提示。
 
 
 #### *如果你发现此处的项目或链接已不再维护或不太合适，欢迎提交 Pull Request 来改进这份文档。谢谢！*
