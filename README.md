@@ -54,6 +54,8 @@ Awesome macOS open source Apps
 
 - [Dusty](https://github.com/yagcioglutoprak/dusty) ![native] - Menu bar disk cleaner with an allowlist-only deletion engine that shows every path before removing anything
 
+- [IconCraft](https://github.com/gshipman223/IconCraft) - Rename and re-icon any Mac app without modifying it, with an Originals Vault and Restore all
+
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner) A free, source-available and fair-code licensed mac app cleaner
 
 - [Mole](https://github.com/tw93/Mole) - Open-source CLI to deep clean caches, uninstall apps with their leftovers, analyze disk usage and monitor your Mac
